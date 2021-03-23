@@ -1,0 +1,58 @@
+body{
+    text-align: center;
+    font-family: arial;
+    background-image: url(sfondo.jpg);
+    color:rgb(92, 12, 12);
+    box-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 1em 5em 0em 5em;
+    box-sizing: border-box;
+}
+
+h1{
+    font-size: 60px;
+}
+
+h2{
+    font-size: 50px;
+}
+
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+table td{
+    border: 2px solid rgb(0, 0, 0);
+    padding: 8px;
+  }
+
+table tr{
+    border: 2px solid rgb(0, 0, 0);
+    padding: 8px;
+  }
+
+img{
+    float: center;
+    padding: 10px;
+    margin: 10px;
+    height: 250px;
+    width: 400px;
+}
+
+button{
+    outline: none;
+    cursor: pointer;
+    text-align: center;
+    font: bold 12px Arial, Helvetica, sans-serif;
+    color: #fff;
+    padding: 10px 20px;
+    border: solid 1px #0076a3;
+    background: #0095cd;
+}
+
+a{
+    text-align: center;
+}
